@@ -11,9 +11,9 @@ author_profile: true
 
 <div class="publications-page">
   <section class="publications-hero">
-    <p class="pub-kicker">Selected Research Output</p>
+    <p class="pub-kicker">Research Portfolio</p>
     <h1>Publications</h1>
-    <p class="pub-lede">Research works are organized by topic, with each topic presented as a visual block followed by its publication list.</p>
+    <p class="pub-lede">A curated record of research on near-field communications, intelligent reflecting surfaces, edge intelligence, UAV communications, and flexible antenna systems.</p>
     <p class="pub-note"><strong>*</strong> indicates corresponding author.</p>
   </section>
 
@@ -38,7 +38,7 @@ author_profile: true
 
   <section class="publication-section publication-section--compact">
     <div class="publication-section-heading">
-      <span class="publication-section-label">Book Chapter</span>
+      <span class="publication-section-label">Publication Type</span>
       <h2>Book Chapter</h2>
     </div>
     <ol class="publication-list publication-list--featured">
@@ -48,7 +48,7 @@ author_profile: true
 
   <section class="publication-section">
     <div class="publication-section-heading">
-      <span class="publication-section-label">Journal Articles</span>
+      <span class="publication-section-label">Research Themes</span>
       <h2>Journal Articles by Topic</h2>
     </div>
 
@@ -415,7 +415,7 @@ author_profile: true
 
   <section class="publication-section publication-section--compact">
     <div class="publication-section-heading">
-      <span class="publication-section-label">Patent</span>
+      <span class="publication-section-label">Intellectual Property</span>
       <h2>Patents</h2>
     </div>
     <ol class="publication-list publication-list--featured">
