@@ -118,3 +118,238 @@
     border-radius: 6px;
 }
 
+.publications-page {
+    max-width: 1080px;
+}
+
+.publications-hero {
+    border: 1px solid #dfe7e4;
+    border-left: 6px solid #1f7a6d;
+    background: #fbfdfc;
+    padding: 28px 32px;
+    margin-bottom: 22px;
+}
+
+.pub-kicker {
+    color: #1f7a6d;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0;
+    margin: 0 0 6px 0;
+    text-transform: uppercase;
+}
+
+.publications-hero h1 {
+    font-size: 38px;
+    line-height: 1.1;
+    margin: 0 0 12px 0;
+}
+
+.pub-lede {
+    max-width: 780px;
+    color: #4d565c;
+    font-size: 17px;
+    line-height: 1.55;
+    margin: 0 0 14px 0;
+}
+
+.pub-note {
+    display: inline-block;
+    border: 1px solid #d7e2df;
+    background: #ffffff;
+    color: #41494f;
+    font-size: 14px;
+    margin: 0;
+    padding: 6px 10px;
+}
+
+.pub-topic-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 0 0 28px 0;
+}
+
+.pub-topic-nav a {
+    border: 1px solid #d9e2df;
+    background: #ffffff;
+    color: #334047;
+    font-size: 13px;
+    line-height: 1.25;
+    padding: 7px 10px;
+    text-decoration: none;
+}
+
+.pub-topic-nav a:hover {
+    border-color: #1f7a6d;
+    color: #1f7a6d;
+}
+
+.publication-section {
+    margin: 0 0 34px 0;
+}
+
+.publication-section--compact {
+    border: 1px solid #e2e7e5;
+    background: #ffffff;
+    padding: 22px 26px;
+}
+
+.publication-section-heading {
+    margin-bottom: 18px;
+}
+
+.publication-section-label {
+    color: #7a5a16;
+    display: block;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0;
+    margin-bottom: 4px;
+    text-transform: uppercase;
+}
+
+.publication-section-heading h2 {
+    font-size: 28px;
+    margin: 0;
+}
+
+.publication-topic-card {
+    border: 1px solid #dfe7e4;
+    background: #ffffff;
+    display: grid;
+    grid-template-columns: 230px minmax(0, 1fr);
+    margin: 0 0 22px 0;
+    overflow: hidden;
+}
+
+.topic-visual.topic-image-slot {
+    align-self: stretch;
+    background: #eef5f3;
+    border-right: 1px solid #dfe7e4;
+    display: flex;
+    min-height: 190px;
+    padding: 18px;
+}
+
+.topic-visual-placeholder {
+    align-items: center;
+    border: 1px solid #c8d8d4;
+    color: #1f7a6d;
+    display: flex;
+    font-size: 42px;
+    font-weight: 700;
+    justify-content: center;
+    line-height: 1;
+    width: 100%;
+}
+
+.topic-visual[data-image]:not([data-image=""]) .topic-visual-placeholder {
+    display: none;
+}
+
+.topic-visual img {
+    display: block;
+    height: 100%;
+    object-fit: cover;
+    width: 100%;
+}
+
+.topic-content {
+    padding: 22px 26px 24px 26px;
+}
+
+.topic-heading-row {
+    align-items: flex-start;
+    display: flex;
+    gap: 14px;
+    justify-content: space-between;
+    margin-bottom: 8px;
+}
+
+.topic-heading-row h3 {
+    color: #293238;
+    font-size: 23px;
+    line-height: 1.25;
+    margin: 0;
+}
+
+.paper-count {
+    border: 1px solid #eadcb8;
+    background: #fff9ea;
+    color: #7a5a16;
+    flex: 0 0 auto;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 1.2;
+    padding: 5px 8px;
+}
+
+.topic-summary {
+    color: #5d666b;
+    font-size: 15px;
+    line-height: 1.5;
+    margin: 0 0 14px 0;
+}
+
+.publication-list {
+    counter-reset: pub-counter;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.publication-list li {
+    border-top: 1px solid #edf0ef;
+    color: #3f484e;
+    counter-increment: pub-counter;
+    font-size: 15px;
+    line-height: 1.55;
+    padding: 11px 0 11px 42px;
+    position: relative;
+}
+
+.publication-list li:first-child {
+    border-top: 0;
+}
+
+.publication-list li::before {
+    background: #1f7a6d;
+    color: #ffffff;
+    content: counter(pub-counter);
+    font-size: 12px;
+    font-weight: 700;
+    height: 24px;
+    left: 0;
+    line-height: 24px;
+    position: absolute;
+    text-align: center;
+    top: 11px;
+    width: 24px;
+}
+
+.publication-list--featured li {
+    font-size: 16px;
+}
+
+@media (max-width: 900px) {
+    .publication-topic-card {
+        grid-template-columns: 1fr;
+    }
+
+    .topic-visual.topic-image-slot {
+        border-right: 0;
+        border-bottom: 1px solid #dfe7e4;
+        min-height: 150px;
+    }
+
+    .topic-heading-row {
+        display: block;
+    }
+
+    .paper-count {
+        display: inline-block;
+        margin-top: 8px;
+    }
+}
+
