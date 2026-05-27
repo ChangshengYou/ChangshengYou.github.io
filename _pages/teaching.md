@@ -5,9 +5,5 @@ permalink: /teaching/
 author_profile: true
 ---
 
-
-__Undergraduate Course__
-* Distributed Optimization and Intelligence
-
 __Postgraduate Course__
-* Probability and Statistics
+* 2022 Spring, EEE5028, "Fundamentals of Wireless Communications"

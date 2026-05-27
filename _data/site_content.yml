@@ -1,0 +1,35 @@
+profile:
+  name: "Changsheng You"
+  title: "Assistant Professor"
+  affiliation: "Department of Electronic and Electrical Engineering, Southern University of Science and Technology"
+  email: "youcs@sustech.edu.cn"
+  office: "Room 708, South Tower, College of Engineering, 1088 Xueyuan Avenue, Nanshan District, Shenzhen 518055"
+  source_homepage: "https://sites.google.com/view/changshengy/homepage"
+
+research_interests:
+  - "Wireless communication and networking"
+  - "Mobile edge computing"
+  - "UAV communications"
+  - "Intelligent reflecting surface"
+  - "Near-field communications"
+  - "Flexible antenna systems"
+
+publication_topic_image_slots:
+  ai-and-wireless-communications: ""
+  near-field-communications-survey-tutorial: ""
+  near-field-communications-beam-training-and-channel-estimation: ""
+  near-field-communications-mixed-near-and-far-field-communication-and-sensing: ""
+  near-field-communications-sparse-arrays-for-near-field-communications: ""
+  near-field-communications-beamforming-design-and-performance-analysis: ""
+  near-field-communications-localization-and-sensing: ""
+  flexible-antenna-systems: ""
+  intelligent-reflecting-surface-survey-tutorial: ""
+  intelligent-reflecting-surface-active-irs: ""
+  intelligent-reflecting-surface-passive-irs-channel-estimation: ""
+  intelligent-reflecting-surface-passive-irs-deployment-and-multi-irs: ""
+  intelligent-reflecting-surface-communication-computing-and-sensing: ""
+  edge-computing-edge-learning-and-semantic-communications: ""
+  uav-communications-and-low-altitude-economy: ""
+  others: ""
+
+maintenance_note: "Full scraped archive is in docs/you_changsheng_profile_archive.md. File-level editing guide is in docs/you_changsheng_site_editing_guide.md."

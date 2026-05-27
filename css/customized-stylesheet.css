@@ -49,6 +49,11 @@
     height: 100%;
 }
 
+.member-photo--placeholder {
+    border: 1px solid #d9d9d9;
+    background: #f7f7f7;
+}
+
 .member-info-sets {
     display: inline-block;
     vertical-align: top;
@@ -71,5 +76,37 @@
 .member-interests, .member-email, .member-misc {
     font-size: 18px;
     line-height: 1.5;
+}
+
+.group-member--compact {
+    min-height: 170px;
+    height: auto;
+}
+
+.member-list {
+    margin-bottom: 24px;
+}
+
+.member-list-item {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.publication-topic {
+    margin-top: 1.5rem;
+}
+
+.topic-image-slot {
+    display: none;
+    margin: 0.5rem 0 1rem 0;
+}
+
+.topic-image-slot[data-image]:not([data-image=""]) {
+    display: block;
+}
+
+.topic-image-slot img {
+    max-width: 100%;
+    border-radius: 6px;
 }
 
