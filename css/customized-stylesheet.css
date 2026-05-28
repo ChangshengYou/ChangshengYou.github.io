@@ -179,11 +179,14 @@
 }
 
 .member-photo {
+    box-sizing: border-box;
     display: inline-block;
     height: 140px;
     width: 100px;
+    overflow: hidden;
     text-align: center;
     margin-right: 18px;
+    vertical-align: top;
     background: #ffffff;
     border: 1px solid #d9d9d9;
     box-shadow: 0 1px 4px rgba(20, 32, 40, 0.08);

@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<link rel="stylesheet" href="{{ base_path }}/css/customized-stylesheet.css">
+<link rel="stylesheet" href="{{ base_path }}/css/customized-stylesheet.css?v=group-id-photo-20260528">
 
 <div class="content-framework">
 
