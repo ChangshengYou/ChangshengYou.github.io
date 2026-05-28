@@ -174,18 +174,20 @@
 }
 
 .group-member {
-    height: 170px;
-    margin-bottom: 20px;
+    min-height: 140px;
+    margin-bottom: 22px;
 }
 
 .member-photo {
     display: inline-block;
-    height: 170px;
-    width: 170px;
+    height: 140px;
+    width: 100px;
     text-align: center;
-    margin-right: 10px;
-    background: #f8f8f8;
-    border: 1px solid #e1e1e1;
+    margin-right: 18px;
+    background: #ffffff;
+    border: 1px solid #d9d9d9;
+    box-shadow: 0 1px 4px rgba(20, 32, 40, 0.08);
+    padding: 3px;
 }
 
 .member-photo img {
@@ -204,7 +206,7 @@
     content: "Photo";
     color: #9a9a9a;
     font-size: 16px;
-    line-height: 170px;
+    line-height: 132px;
 }
 
 .member-info-sets {
@@ -232,7 +234,7 @@
 }
 
 .group-member--compact {
-    min-height: 170px;
+    min-height: 140px;
     height: auto;
 }
 
