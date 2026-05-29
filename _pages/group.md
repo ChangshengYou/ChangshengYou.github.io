@@ -157,7 +157,7 @@ author_profile: true
     <div class="member-photo"><img src="{{ base_path }}/images/group/hzw.jpg" alt="Zhenwei Huang"></div>
     <div class="member-info-sets">
         <div class="member-name">Zhenwei Huang</div>
-        <div class="member-status">Master Student, 2025</div>
+        <div class="member-status">Master Student, Fall 2025</div>
         <div class="member-interests">Research area: Large language models (LLM) for robotics, wireless communications for embodied intelligence</div>
     </div>
 </div>
@@ -166,7 +166,7 @@ author_profile: true
     <div class="member-photo"><img src="{{ base_path }}/images/group/ljq.jpg" alt="Jiaqian Li"></div>
     <div class="member-info-sets">
         <div class="member-name">Jiaqian Li</div>
-        <div class="member-status">Master Student, 2026</div>
+        <div class="member-status">Master Student, Fall 2026</div>
         <div class="member-interests">Research area: Wireless communications for embodied intelligence</div>
     </div>
 </div>
@@ -180,6 +180,23 @@ author_profile: true
     <li>🎓 <b>Bowen Gong</b> — Master, Class of 2025 (<i>Destination: Huawei</i>)</li>
     <li>🎓 <b>Xun Zhang</b> — Master, Class of 2026 (<i>Destination: Vivo</i>)</li>
     <li>🎓 <b>Haodong Zhang</b> — Undergrad, Class of 2025 (<i>Destination: Ph.D. Student at HKU</i>)</li>
+</ul>
+
+<div class="cat">Visiting Students</div>
+
+<ul class="member-list">
+    <li class="member-list-item"><strong>Mr. Yunpu Zhang</strong>, Master, Central South University</li>
+    <li class="member-list-item"><strong>Mr. Xinhao Li</strong>, Master, University College of London</li>
+    <li class="member-list-item"><strong>Ms. Yunli Li</strong>, Ph.D., City University of Hong Kong</li>
+    <li class="member-list-item"><strong>Mr. Qiao Lan</strong>, Ph.D., The University of Hong Kong</li>
+    <li class="member-list-item"><strong>Mr. You Zhou</strong>, Ph.D., The University of Hong Kong</li>
+    <li class="member-list-item"><strong>Mr. Wanli Ni</strong>, Ph.D., Beijing University of Posts and Telecommunications</li>
+    <li class="member-list-item"><strong>Mr. Wen Wang</strong>, Ph.D., Beijing University of Posts and Telecommunications</li>
+    <li class="member-list-item"><strong>Mr. Hao Wei</strong>, Ph.D., Beijing University of Posts and Telecommunications</li>
+    <li class="member-list-item"><strong>Mr. Chenyu Wu</strong>, Ph.D., Harbin Institute of Technology</li>
+    <li class="member-list-item"><strong>Mr. Guoyu Li</strong>, Ph.D., Harbin Institute of Technology</li>
+    <li class="member-list-item"><strong>Mr. Chong Zhou</strong>, Ph.D., Harbin Institute of Technology</li>
+    <li class="member-list-item"><strong>Mr. Tao Wang</strong>, Ph.D., Beijing University of Posts and Telecommunications</li>
 </ul>
 
 </div>
