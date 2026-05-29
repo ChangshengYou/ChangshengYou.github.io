@@ -5,7 +5,7 @@ author_profile: true
 
 {% include base_path %}
 
-<link rel="stylesheet" href="{{ base_path }}/css/customized-stylesheet.css">
+<link rel="stylesheet" href="{{ base_path }}/css/customized-stylesheet.css?v=blue-home-publications-20260529">
 
 <div class="home-page">
   <section class="home-hero">
@@ -32,12 +32,10 @@ author_profile: true
   <section class="home-section">
     <h2>Research Focus</h2>
     <div class="research-topic-grid">
-      <span>Wireless communication and networking</span>
-      <span>Mobile edge computing</span>
-      <span>UAV communications</span>
-      <span>Intelligent reflecting surface</span>
-      <span>Near-field communications</span>
-      <span>Flexible antenna systems</span>
+      <span>AI for Communication</span>
+      <span>Communication for Embodied Intelligence</span>
+      <span>Near-field Communications</span>
+      <span>New-form Antenna Technologies</span>
     </div>
   </section>
 

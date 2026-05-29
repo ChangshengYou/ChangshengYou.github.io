@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<link rel="stylesheet" href="{{ base_path }}/css/customized-stylesheet.css">
+<link rel="stylesheet" href="{{ base_path }}/css/customized-stylesheet.css?v=blue-home-publications-20260529">
 
 <div class="publications-page">
   <section class="publications-hero">
@@ -24,18 +24,9 @@ author_profile: true
     </div>
     <div class="pub-topic-links">
       <a href="#topic-ai-and-wireless-communications">AI and Wireless Communications</a>
-      <a href="#topic-near-field-communications-survey-tutorial">Near-field Communications: Survey &amp; Tutorial</a>
-      <a href="#topic-near-field-communications-beam-training-and-channel-estimation">Near-field Communications: Beam Training and Channel Estimation</a>
-      <a href="#topic-near-field-communications-mixed-near-and-far-field-communication-and-sensing">Near-field Communications: Mixed Near- and Far-field Communication and Sensing</a>
-      <a href="#topic-near-field-communications-sparse-arrays-for-near-field-communications">Near-field Communications: Sparse Arrays for Near-field Communications</a>
-      <a href="#topic-near-field-communications-beamforming-design-and-performance-analysis">Near-field Communications: Beamforming Design and Performance Analysis</a>
-      <a href="#topic-near-field-communications-localization-and-sensing">Near-field Communications: Localization and Sensing</a>
+      <a href="#topic-near-field-communications-survey-tutorial">Near-field Communications</a>
       <a href="#topic-flexible-antenna-systems">Flexible Antenna Systems</a>
-      <a href="#topic-intelligent-reflecting-surface-survey-tutorial">Intelligent Reflecting Surface: Survey &amp; Tutorial</a>
-      <a href="#topic-intelligent-reflecting-surface-active-irs">Intelligent Reflecting Surface: Active IRS</a>
-      <a href="#topic-intelligent-reflecting-surface-passive-irs-channel-estimation">Intelligent Reflecting Surface: Passive IRS, Channel Estimation</a>
-      <a href="#topic-intelligent-reflecting-surface-passive-irs-deployment-and-multi-irs">Intelligent Reflecting Surface: Passive IRS, Deployment and Multi-IRS</a>
-      <a href="#topic-intelligent-reflecting-surface-communication-computing-and-sensing">Intelligent Reflecting Surface: Communication, Computing and Sensing</a>
+      <a href="#topic-intelligent-reflecting-surface-survey-tutorial">Intelligent Reflecting Surface</a>
       <a href="#topic-edge-computing-edge-learning-and-semantic-communications">Edge Computing, Edge Learning and Semantic Communications</a>
       <a href="#topic-uav-communications-and-low-altitude-economy">UAV Communications and Low-altitude Economy</a>
       <a href="#topic-others">Others</a>
