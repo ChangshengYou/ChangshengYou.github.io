@@ -18,7 +18,7 @@ author_profile: true
     <div class="member-info-sets">
         <div class="member-name">Mingjiang Wu</div>
         <div class="member-status">Postdoctoral Researcher</div>
-        <div class="member-interests">Research area: Symbiotic radio, near-field communications, fluid/movable antenna</div>
+        <div class="member-interests">Research area: Symbiotic radio, near-field communications, movable antenna</div>
     </div>
 </div>
 
@@ -29,7 +29,7 @@ author_profile: true
     <div class="member-info-sets">
         <div class="member-name">Tianyu Liu</div>
         <div class="member-status">Ph.D. Student, Fall 2022</div>
-        <div class="member-interests">Research area: Hybrid far and near-field communications</div>
+        <div class="member-interests">Research area: Mixed far and near-field communications</div>
     </div>
 </div>
 
@@ -47,7 +47,7 @@ author_profile: true
     <div class="member-info-sets">
         <div class="member-name">Jiayi Cong</div>
         <div class="member-status">Ph.D. Student, Fall 2023</div>
-        <div class="member-interests">Research area: AI-empowered wireless communications, fluid/movable antenna</div>
+        <div class="member-interests">Research area: AI-empowered wireless communications, movable antenna</div>
     </div>
 </div>
 
@@ -195,7 +195,7 @@ author_profile: true
     <li class="member-list-item"><strong>Mr. Hao Wei</strong>, Ph.D., Beijing University of Posts and Telecommunications</li>
     <li class="member-list-item"><strong>Mr. Chenyu Wu</strong>, Ph.D., Harbin Institute of Technology</li>
     <li class="member-list-item"><strong>Mr. Guoyu Li</strong>, Ph.D., Harbin Institute of Technology</li>
-    <li class="member-list-item"><strong>Mr. Chong Zhou</strong>, Ph.D., Harbin Institute of Technology</li>
+    <li class="member-list-item"><strong>Mr. Cong Zhou</strong>, Ph.D., Harbin Institute of Technology</li>
     <li class="member-list-item"><strong>Mr. Tao Wang</strong>, Ph.D., Beijing University of Posts and Telecommunications</li>
 </ul>
 
