@@ -12,8 +12,8 @@ title_separator          : "-"
 name                     : &name "Changsheng You"
 description              : &description "Assistant Professor at Southern University of Science and Technology"
 url                      : https://changshengyou.github.io
-baseurl                  : "/ChangshengYou"
-repository               : "ChangshengYou/ChangshengYou"
+baseurl                  : ""
+repository               : "ChangshengYou/ChangshengYou.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
