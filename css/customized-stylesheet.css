@@ -419,6 +419,32 @@
     padding-top: 22px;
 }
 
+.publication-topic-family {
+    counter-reset: pub-counter;
+    margin: 0 0 38px 0;
+}
+
+.publication-family-heading {
+    background: #f4f8ff;
+    border: 1px solid #d8e3f2;
+    border-left: 4px solid #1f5f9b;
+    margin: 0 0 22px 0;
+    padding: 18px 22px;
+}
+
+.publication-family-heading h3 {
+    color: #18252d;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 31px;
+    font-weight: 500;
+    line-height: 1.2;
+    margin: 4px 0 0 0;
+}
+
+.publication-topic-family .publication-list {
+    counter-reset: none;
+}
+
 .topic-visual.topic-image-slot {
     background: #f4f8ff;
     border: 1px solid #d8e3f2;

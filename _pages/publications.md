@@ -24,9 +24,9 @@ author_profile: true
     </div>
     <div class="pub-topic-links">
       <a href="#topic-ai-and-wireless-communications">AI and Wireless Communications</a>
-      <a href="#topic-near-field-communications-survey-tutorial">Near-field Communications</a>
+      <a href="#topic-near-field-communications">Near-field Communications</a>
       <a href="#topic-flexible-antenna-systems">Flexible Antenna Systems</a>
-      <a href="#topic-intelligent-reflecting-surface-survey-tutorial">Intelligent Reflecting Surface</a>
+      <a href="#topic-intelligent-reflecting-surface">Intelligent Reflecting Surface</a>
       <a href="#topic-edge-computing-edge-learning-and-semantic-communications">Edge Computing, Edge Learning and Semantic Communications</a>
       <a href="#topic-uav-communications-and-low-altitude-economy">UAV Communications and Low-altitude Economy</a>
       <a href="#topic-others">Others</a>
@@ -68,13 +68,19 @@ author_profile: true
       </div>
     </article>
 
+    <div class="publication-topic-family" id="topic-near-field-communications">
+      <div class="publication-family-heading">
+        <span class="publication-section-label">Research Theme</span>
+        <h3>Near-field Communications</h3>
+      </div>
+
     <article class="publication-topic-card" id="topic-near-field-communications-survey-tutorial">
       <div class="topic-visual topic-image-slot" data-topic="near-field-communications-survey-tutorial" data-image="">
         <div class="topic-visual-placeholder">NF</div>
       </div>
       <div class="topic-content">
         <div class="topic-heading-row">
-          <h3>Near-field Communications: Survey &amp; Tutorial</h3>
+          <h3>Survey &amp; Tutorial</h3>
           <span class="paper-count">6 papers</span>
         </div>
         <p class="topic-summary">Tutorials, surveys, and perspective papers on near-field wireless systems and XL-MIMO.</p>
@@ -95,7 +101,7 @@ author_profile: true
       </div>
       <div class="topic-content">
         <div class="topic-heading-row">
-          <h3>Near-field Communications: Beam Training and Channel Estimation</h3>
+          <h3>Beam Training and Channel Estimation</h3>
           <span class="paper-count">9 papers</span>
         </div>
         <p class="topic-summary">Beam training, codebook design, and channel estimation for near-field XL-array systems.</p>
@@ -119,7 +125,7 @@ author_profile: true
       </div>
       <div class="topic-content">
         <div class="topic-heading-row">
-          <h3>Near-field Communications: Mixed Near- and Far-field Communication and Sensing</h3>
+          <h3>Mixed Near- and Far-field Communication and Sensing</h3>
           <span class="paper-count">8 papers</span>
         </div>
         <p class="topic-summary">Mixed-field communication, sensing, localization, security, and interference mitigation.</p>
@@ -142,7 +148,7 @@ author_profile: true
       </div>
       <div class="topic-content">
         <div class="topic-heading-row">
-          <h3>Near-field Communications: Sparse Arrays</h3>
+          <h3>Sparse Arrays</h3>
           <span class="paper-count">4 papers</span>
         </div>
         <p class="topic-summary">Sparse arrays, multi-beam training, and super-resolution beam training for near-field communications.</p>
@@ -161,7 +167,7 @@ author_profile: true
       </div>
       <div class="topic-content">
         <div class="topic-heading-row">
-          <h3>Near-field Communications: Beamforming Design and Performance Analysis</h3>
+          <h3>Beamforming Design and Performance Analysis</h3>
           <span class="paper-count">6 papers</span>
         </div>
         <p class="topic-summary">Beamforming design, performance analysis, and physical-layer security for near-field systems.</p>
@@ -182,7 +188,7 @@ author_profile: true
       </div>
       <div class="topic-content">
         <div class="topic-heading-row">
-          <h3>Near-field Communications: Localization and Sensing</h3>
+          <h3>Localization and Sensing</h3>
           <span class="paper-count">5 papers</span>
         </div>
         <p class="topic-summary">Near-field positioning, attitude sensing, target localization, and hardware impairment analysis.</p>
@@ -195,6 +201,8 @@ author_profile: true
         </ol>
       </div>
     </article>
+
+    </div>
 
     <article class="publication-topic-card" id="topic-flexible-antenna-systems">
       <div class="topic-visual topic-image-slot" data-topic="flexible-antenna-systems" data-image="">
@@ -222,13 +230,19 @@ author_profile: true
       </div>
     </article>
 
+    <div class="publication-topic-family" id="topic-intelligent-reflecting-surface">
+      <div class="publication-family-heading">
+        <span class="publication-section-label">Research Theme</span>
+        <h3>Intelligent Reflecting Surface</h3>
+      </div>
+
     <article class="publication-topic-card" id="topic-intelligent-reflecting-surface-survey-tutorial">
       <div class="topic-visual topic-image-slot" data-topic="intelligent-reflecting-surface-survey-tutorial" data-image="">
         <div class="topic-visual-placeholder">IRS</div>
       </div>
       <div class="topic-content">
         <div class="topic-heading-row">
-          <h3>Intelligent Reflecting Surface: Survey &amp; Tutorial</h3>
+          <h3>Survey &amp; Tutorial</h3>
           <span class="paper-count">8 papers</span>
         </div>
         <p class="topic-summary">Tutorials, surveys, and perspectives on intelligent reflecting surfaces and RIS-empowered wireless networks.</p>
@@ -251,7 +265,7 @@ author_profile: true
       </div>
       <div class="topic-content">
         <div class="topic-heading-row">
-          <h3>Intelligent Reflecting Surface: Active IRS</h3>
+          <h3>Active IRS</h3>
           <span class="paper-count">9 papers</span>
         </div>
         <p class="topic-summary">Active, passive, hybrid, and relay-oriented IRS architectures.</p>
@@ -275,7 +289,7 @@ author_profile: true
       </div>
       <div class="topic-content">
         <div class="topic-heading-row">
-          <h3>Intelligent Reflecting Surface: Passive IRS, Channel Estimation</h3>
+          <h3>Passive IRS, Channel Estimation</h3>
           <span class="paper-count">9 papers</span>
         </div>
         <p class="topic-summary">Passive IRS channel estimation, training, and practical beamforming design.</p>
@@ -299,7 +313,7 @@ author_profile: true
       </div>
       <div class="topic-content">
         <div class="topic-heading-row">
-          <h3>Intelligent Reflecting Surface: Passive IRS, Deployment and Multi-IRS</h3>
+          <h3>Passive IRS, Deployment and Multi-IRS</h3>
           <span class="paper-count">6 papers</span>
         </div>
         <p class="topic-summary">IRS deployment, double-IRS systems, cooperative passive beamforming, and multiuser communication.</p>
@@ -320,7 +334,7 @@ author_profile: true
       </div>
       <div class="topic-content">
         <div class="topic-heading-row">
-          <h3>Intelligent Reflecting Surface: Communication, Computing and Sensing</h3>
+          <h3>Communication, Computing and Sensing</h3>
           <span class="paper-count">4 papers</span>
         </div>
         <p class="topic-summary">IRS-aided sensing, mobile edge computing, and OFDM relaying.</p>
@@ -332,6 +346,8 @@ author_profile: true
         </ol>
       </div>
     </article>
+
+    </div>
 
     <article class="publication-topic-card" id="topic-edge-computing-edge-learning-and-semantic-communications">
       <div class="topic-visual topic-image-slot" data-topic="edge-computing-edge-learning-and-semantic-communications" data-image="">

@@ -43,7 +43,7 @@ author_profile: true
 </div>
 
 <div class="group-member">
-    <div class="member-photo"><img src="{{ base_path }}/images/group/pt.jpg" alt="Jiayi Cong"></div>
+    <div class="member-photo"><img src="{{ base_path }}/images/group/cjy.jpg" alt="Jiayi Cong"></div>
     <div class="member-info-sets">
         <div class="member-name">Jiayi Cong</div>
         <div class="member-status">Ph.D. Student, Fall 2023</div>
