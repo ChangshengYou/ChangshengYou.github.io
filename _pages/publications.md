@@ -109,6 +109,7 @@ author_profile: true
           <li>T. Wang, C. You*, and C. Yin*, "Beam-Steering Aided Hierarchical Codebook for Near-Field Beam Training", IEEE Open J. Commun. Society, vol. 6, pp. 8335-8350, 2025.</li>
           <li>X. Shi, J. Wang, X. Wang, C. You, and J. Song, "Double-sided XL-MIMO: Beamfocusing Codeword Selection and Channel Estimation", IEEE Trans. Commun., vol. 73, no. 5, pp. 3441-3455, May 2025.</li>
           <li>Z. Ding, J. Zhang, Z. Yuan, P. Tang, C. You, L. Tian, K. Chen, and G. Liu, "Low-Dimensional Near-Field Codebook Design for Extremely Large-Scale MIMO Systems with Uniform Circular Arrays", IEEE Trans. Veh. Technol., vol. 74, no. 10, pp. 16511-16515, Oct. 2025.</li>
+          <li>Z. Ding, J. Zhang, Z. Yuan, P. Tang, C. You, L. Tian, K. Chen, and G. Liu, "Low-Dimensional Near-Field Codebook Design for Extremely Large-Scale MIMO Systems with Uniform Circular Arrays", IEEE Trans. Veh. Technol., vol. 74, no. 10, pp. 16511-16515, Oct. 2025.</li>
         </ol>
       </div>
     </article>
