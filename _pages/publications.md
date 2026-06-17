@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<link rel="stylesheet" href="{{ base_path }}/css/customized-stylesheet.css?v=blue-home-publications-20260529">
+<link rel="stylesheet" href="{{ base_path }}/css/customized-stylesheet.css?v=publication-family-counter-20260617">
 
 <div class="publications-page">
   <section class="publications-hero">
