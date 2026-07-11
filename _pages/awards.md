@@ -14,14 +14,10 @@ __Selected Awards__
 * IEEE ComSoc Asia-Pacific Outstanding Paper Award for "Energy-Efficient Resource Allocation for Mobile-Edge Computation Offloading", 2019
 * Li Ka Shing Prize, the Best Ph.D. Thesis Award, 2017-2018
 * Highly Cited Chinese Scholars, 2022-2024
-* World's Top 2% Scientist by Stanford University, 2020-2022
-* AI 2000 Most Influential Scholar Award Honorable Mention in the field of Internet of Things, 2022 and 2023
+* World's Top 2% Scientist by Stanford University, 2020-2025
+* AI 2000 Most Influential Scholar Award Honorable Mention in the field of Internet of Things, 2022-2025
 * Young Elite Scientist of China Association for Science and Technology, 2022
 * IEEE WCSP Best Paper Award for "Channel Estimation for XL-IRS Assisted Wireless Systems with Double-sided Visibility Regions", 2024
 * IEEE ICC Best Paper Award on workshop of "Task-oriented and generative communication for 6G", 2024
 * Exemplary Editor of IEEE Communications Letters, 2021
-* Exemplary Reviewer of IEEE Wireless Communications Letters, 2020
-* Exemplary Reviewer of IEEE Transactions on Communications, 2019
-* Exemplary Reviewer of IEEE Transactions on Wireless Communications, 2018
-* Outstanding Teaching Assistant Award in Department of EEE of HKU, 2015-2017
-* HKU Postgraduate Scholarship, 2014-2018
+
