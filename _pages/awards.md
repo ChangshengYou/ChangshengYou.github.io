@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 __Selected Awards__
-* Clarivate Highly Cited Researcher, 2024
+* Clarivate Highly Cited Researcher, 2024-2025
 * IEEE Communications Society Leonard G. Abraham Prize, 2025
 * IEEE ComSoc Asia-Pacific Best Young Research Award for contributions to Intelligent Reflecting Surface Empowered Wireless Communication and Sensing, 2024
 * IEEE ComSoc Best Tutorial Paper Award for "Intelligent Reflecting Surface-Aided Wireless Communications: A Tutorial", 2023
