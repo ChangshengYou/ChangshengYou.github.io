@@ -176,7 +176,7 @@ author_profile: true
           <li>H. Zhang, C. You*, and C. Zhou, "Near-field Beam-focusing Pattern under Discrete Phase Shifters", IEEE Trans. Wireless Commun., vol. 25, pp. 631-646, 2026.</li>
           <li>Y. Zhang, Y. Fang, C. You*, Y. A. Zhang, and H. C. So, "Performance Analysis and Low-Complexity Beamforming Design for Near-Field Physical Layer Security", IEEE Trans. Commun., vol. 74, pp. 781-796, 2026.</li>
           <li>C. Zhou, C. You*, C. Zhou, C. Xing, and J. Zhang, "Near-field Physical Layer Security: Robust Beamforming under Location Uncertainty", IEEE Trans. Wireless Commun., vol. 25, pp. 17384-17398, 2026.</li>
-          <li>M. Wu, C. You*, and X. Lei, "Beam-focusing Analysis for Modular XL-arrays: Effect of Time Synchronization Errors", submitted to IEEE for possible publication.</li>
+          <li>M. Wu, C. You*, and X. Lei, "Beam-focusing Analysis for Modular XL-arrays: Effect of Time Synchronization Errors", IEEE Wireless Commun. Lett., vol. 15, pp. 3571-3575, 2026.</li>
           <li>B. Qin, F. Zhou, W. Zhang, C. You, and B. Zheng, "Fast Distance Sampling for Uniform Circular Array in Near-Field 3D Beam-Focusing", IEEE Signal Proc. Lett., vol. 31, pp. 2210-2214, Aug. 2025.</li>
         </ol>
       </div>
@@ -197,7 +197,7 @@ author_profile: true
           <li>A. Chen, L. Chen, Y. Chen, C. You, G. Wei, and F. Yu, "Cramer-Rao Bounds of Near-Field Positioning Based on Electromagnetic Propagation Model", IEEE Trans. Veh. Technol., vol. 72, no. 11, pp. 13808-13825, Nov. 2023.</li>
           <li>H. Cheng, C. You*, C. Zhou, W. Yuan, and N. Wu*, "Near-field Multi-target Localization with Coprime Arrays", IEEE Trans. Commun., vol. 73, no. 12, pp. 13563-13577, Dec. 2025.</li>
           <li>Z. Liu, B. Zheng, Q. Wu, C. You, W. Mei, K. Chen, J. Tang, "Reconfigurable Intelligent Surface-Aided Near-Field Localization With Array Spatial Correlation", IEEE Wireless Commun. Lett., vol. 14, no. 7, pp. 2194-2198, July 2025.</li>
-          <li>J. Li, C. You*, C. Zhou, Y. Zeng, and Z. Feng, "Near-field Target Localization: Effect of Hardware Impairments", submitted to IEEE for possible publication.</li>
+          <li>J. Li, C. You*, C. Zhou, Y. Zeng, and Z. Feng, "Near-field Target Localization: Effect of Hardware Impairments", IEEE Trans. Wireless Commun., vol. 25, pp. 18885-18899, 2026.</li>
         </ol>
       </div>
     </article>
