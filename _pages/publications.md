@@ -396,7 +396,10 @@ author_profile: true
           <li>Z. Kang, C. You*, and R. Zhang, "3D Placement for Multi-UAV Relaying: An Iterative Gibbs-Sampling and Block Coordinate Descent Optimization Approach", IEEE Trans. Commun., vol. 69, no. 3, pp. 2047-2062, 2021.</li>
           <li>Y. Guo, C. You*, C. Yin, and R. Zhang, "UAV Trajectory and Communication Co-design: Flexible Path Discretization and Path Compression", IEEE J. Sel. Area Commun., vol. 39, no. 11, pp. 3506-3523, Nov. 2021. </li>
           <li>T. Liu, G. Zhang, M. Cui, C. You, Q. Wu, S. Ma, and W. Chen, "Task Completion Time Minimization for UAV-Enabled Data Collection in Rician Fading Channels", IEEE Internet of Things Journal, vol. 10, no. 2, pp. 1134-1148, Jan. 2023.</li>
-          <li>W. Liu, X. Zhang, J. Ren, W. Yuan, C. You, and S. Li, "UAV-Enabled ISAC Systems with Fluid Antennas", IEEE Trans. Commun., vol. 69, no. 3, pp. 2047-2062, 2021. </li>
+          <li>W. Liu, X. Zhang, J. Ren, W. Yuan, C. You, and S. Li, "UAV-Enabled ISAC Systems with Fluid Antennas", IEEE Trans. Commun., vol. 74, pp. 9529-9546, 2026. </li>
+          <li>C. Deng, X. Fang, M. Wu, M. Shen, and C. You, "Integrated Sensing, Communication, and Computing for Low Altitude Economy: UAV Placement and Resource Allocation", IEEE Trans. Commun. 2026. </li>
+          <li>Y. Jiang, X. Li, G. Zhu, C. You, D. Wen, B. Zhou, X. Wang, and R. Zhang, "Performance Analysis for Heterogeneous Air- Ground ISAC in Coordinated Multipoint Networks", IEEE J. Sel. Area Commun., 2026 </li>
+          <li>N. Wu, H. Li, R. Jiang, N. Su, Y. Zhnag, W. Yuan, and C. You, "Sense-Then-Serve: A Novel Framework From ISAC Toward Sensing-Enhanced SWIPT", IEEE J. Sel. Area Commun., vol. 44, 5222-5237, 2026 </li>
         </ol>
       </div>
     </article>
