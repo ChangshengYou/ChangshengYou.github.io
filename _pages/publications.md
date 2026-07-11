@@ -248,10 +248,10 @@ author_profile: true
         </div>
         <p class="topic-summary">Tutorials, surveys, and perspectives on intelligent reflecting surfaces and RIS-empowered wireless networks.</p>
         <ol class="publication-list">
-          <li>Q. Wu, S. Zhang, B. Zheng, C. You, and R. Zhang, "Intelligent Reflecting Surface Aided Wireless Communications: A Tutorial", IEEE Trans. Commun., vol. 69, no. 5, pp. 3313-3351, May 2021. (EIC Invited paper, ESI Hot Paper, ESI Highly Cited Paper, Available: ArXiv)</li>
-          <li>C. You, B. Zheng, W. Mei, and R. Zhang, "How to deploy intelligent reflecting surfaces in wireless network: BS-side, user-side or both sides?", Journal of Communications and Information Networks, vol. 7, no. 1, Mar. 2022. (Invited Paper, Available: ArXiv)</li>
-          <li>C. You, Z. Kang, Y. Zeng, and R. Zhang, "Enabling Smart Reflection in Integrated Air-Ground Wireless Network: IRS Meets UAV", IEEE Wireless Commun., vol. 28, no. 6, pp. 138-144, Dec. 2021. (Available: ArXiv)</li>
-          <li>B. Zheng, C. You, W. Mei, and R. Zhang, "A Survey on Channel Estimation and Practical Passive Beamforming Design for Intelligent Reflecting Surface Aided Wireless Communications", IEEE Commun. Surveys Tuts., vol. 24, no. 2, pp. 1035-1071, 2022. (Available: ArXiv, ESI Highly Cited Paper, ESI Hot Paper)</li>
+          <li>Q. Wu, S. Zhang, B. Zheng, C. You, and R. Zhang, "Intelligent Reflecting Surface Aided Wireless Communications: A Tutorial", IEEE Trans. Commun., vol. 69, no. 5, pp. 3313-3351, May 2021. (EIC Invited paper, ESI Hot Paper, ESI Highly Cited Paper</li>
+          <li>C. You, B. Zheng, W. Mei, and R. Zhang, "How to deploy intelligent reflecting surfaces in wireless network: BS-side, user-side or both sides?", Journal of Communications and Information Networks, vol. 7, no. 1, Mar. 2022. (Invited Paper)</li>
+          <li>C. You, Z. Kang, Y. Zeng, and R. Zhang, "Enabling Smart Reflection in Integrated Air-Ground Wireless Network: IRS Meets UAV", IEEE Wireless Commun., vol. 28, no. 6, pp. 138-144, Dec. 2021.</li>
+          <li>B. Zheng, C. You, W. Mei, and R. Zhang, "A Survey on Channel Estimation and Practical Passive Beamforming Design for Intelligent Reflecting Surface Aided Wireless Communications", IEEE Commun. Surveys Tuts., vol. 24, no. 2, pp. 1035-1071, 2022. (ESI Highly Cited Paper, ESI Hot Paper)</li>
           <li>W. Mei, B. Zheng, C. You, and R. Zhang, "Intelligent Reflecting Surface Aided Wireless Networks: From Single-Reflection to Multi-Reflection Design and Optimization", Proc. IEEE, vol. 110, no. 9, pp. 1380-1400, 2022. (Invited Paper, ESI Highly Cited Paper)</li>
           <li>M. Zeng, W. Hao, Z. Peng, Z. Chu, X. Li, C. You, and C. Pan, "Resource Allocation for RIS-Empowered Wireless Communications: Low-Complexity and Robust Designs", IEEE Wireless Commun., vol. 31, no. 5, pp. 68-75, 2024.</li>
           <li>Q. Wu, B. Zheng, C. You, L. Zhu, K. Shen, X. Shao, W. Mei, B. Di, H. Zhang, E. Basar, L. Song, M. D. Renzo, Z. Luo, R. Zhang, "Intelligent Surfaces Empowered Wireless Network: Recent Advances and The Road to 6G", Proc. IEEE, vol. 112, no. 7, pp. 724-763, 2024. (ESI Hot Paper, ESI Highly Cited Paper)</li>
@@ -272,7 +272,7 @@ author_profile: true
         <p class="topic-summary">Active, passive, hybrid, and relay-oriented IRS architectures.</p>
         <ol class="publication-list">
           <li>Z. Kang, C. You*, and R. Zhang*, "Active-IRS-Aided Wireless Communication: Fundamentals, Designs and Open Issues", IEEE Wireless Commun. Mag., vol. 31, no. 3, pp. 368-374, 2024.</li>
-          <li>C. You and R. Zhang, "Wireless Communication Aided by Intelligent Reflecting Surface: Active or Passive?", IEEE Wireless Commun. Lett., vol. 10, no. 12, pp. 2659-2663, Dec. 2021. (Available: ArXiv, ESI Highly Cited Paper, Popular article in IEEE WCL)</li>
+          <li>C. You and R. Zhang, "Wireless Communication Aided by Intelligent Reflecting Surface: Active or Passive?", IEEE Wireless Commun. Lett., vol. 10, no. 12, pp. 2659-2663, Dec. 2021. (ESI Highly Cited Paper, Popular article in IEEE WCL)</li>
           <li>Y. Zhang, C. You*, and B. Zheng, "Multi-Active Multi-Passive (MAMP)-IRS Aided Wireless Communication: A Multi-Hop Beam Routing Design", IEEE J. Sel. Areas Commun., vol. 41, no. 8, pp. 2497-2513, 2023. (Popular article in IEEE JSAC)</li>
           <li>Y. Li, C. You*, Y. J. Chun, "Active-IRS Aided Wireless Network: System Modeling and Performance Analysis", IEEE Commun. Lett., vol. 27, no. 2, pp. 487-491, 2023.</li>
           <li>Z. Kang, C. You*, and R. Zhang*, "Active-Passive IRS aided Wireless Communication: New Hybrid Architecture and Elements Allocation Optimization", IEEE Trans. Wireless Commun., vol. 23, no. 4, pp. 3450-3464, 2024. (ESI Highly Cited Paper)</li>
@@ -295,12 +295,12 @@ author_profile: true
         </div>
         <p class="topic-summary">Passive IRS channel estimation, training, and practical beamforming design.</p>
         <ol class="publication-list">
-          <li>C. You, B. Zheng, and R. Zhang, "Channel Estimation and Passive Beamforming for Intelligent Reflecting Surface: Discrete Phase Shift and Progressive Refinement", IEEE J. Sel. Areas Commun., vol. 38, no. 11, pp. 2604-2620, Nov. 2020. (Available: ArXiv, IEEE ComSoc Best Readings in Reconfigurable Intelligent Surfaces, ESI Highly Cited Paper)</li>
-          <li>C. You, B. Zheng, and R. Zhang, "Fast Beam Training for IRS-Assisted Multiuser Communications", IEEE Wireless Commun. Lett., vol. 9, no. 11, pp. 1845-1849, Nov. 2020. (Available: ArXiv)</li>
-          <li>B. Zheng, C. You*, and R. Zhang, "Intelligent Reflecting Surface Assisted Multi-User OFDMA: Channel Estimation and Training Design", IEEE Trans. Wireless Commun., vol. 19, no. 12, pp. 8315-8329, Dec. 2020. (ESI Highly Cited Paper, Available: ArXiv)</li>
-          <li>B. Zheng, C. You*, and R. Zhang, "Fast Channel Estimation for IRS-Assisted OFDM", IEEE Wireless Commun. Lett., vol. 10, no. 3, pp. 580-584, 2021. (Available: ArXiv)</li>
-          <li>S. Abeywickrama, C. You*, R. Zhang, and C. Yuen, "Channel Estimation for Intelligent Reflecting Surface Assisted Backscatter Communication", IEEE Wireless Commun. Lett., vol. 10, no. 11, pp. 2519-2523, Nov. 2021. (Available: ArXiv)</li>
-          <li>C. Wu, C. You, Y. Liu, X. Gu, and Y. Cai, "Channel Estimation for STAR-RIS-aided Wireless Communication", IEEE Commun. Lett., vol. 26, no. 3, pp. 652-656, Mar. 2022. (Available: ArXiv, ESI Highly Cited Paper)</li>
+          <li>C. You, B. Zheng, and R. Zhang, "Channel Estimation and Passive Beamforming for Intelligent Reflecting Surface: Discrete Phase Shift and Progressive Refinement", IEEE J. Sel. Areas Commun., vol. 38, no. 11, pp. 2604-2620, Nov. 2020. (IEEE ComSoc Best Readings in Reconfigurable Intelligent Surfaces, ESI Highly Cited Paper)</li>
+          <li>C. You, B. Zheng, and R. Zhang, "Fast Beam Training for IRS-Assisted Multiuser Communications", IEEE Wireless Commun. Lett., vol. 9, no. 11, pp. 1845-1849, Nov. 2020.</li>
+          <li>B. Zheng, C. You*, and R. Zhang, "Intelligent Reflecting Surface Assisted Multi-User OFDMA: Channel Estimation and Training Design", IEEE Trans. Wireless Commun., vol. 19, no. 12, pp. 8315-8329, Dec. 2020. (ESI Highly Cited Paper)</li>
+          <li>B. Zheng, C. You*, and R. Zhang, "Fast Channel Estimation for IRS-Assisted OFDM", IEEE Wireless Commun. Lett., vol. 10, no. 3, pp. 580-584, 2021.</li>
+          <li>S. Abeywickrama, C. You*, R. Zhang, and C. Yuen, "Channel Estimation for Intelligent Reflecting Surface Assisted Backscatter Communication", IEEE Wireless Commun. Lett., vol. 10, no. 11, pp. 2519-2523, Nov. 2021.</li>
+          <li>C. Wu, C. You, Y. Liu, X. Gu, and Y. Cai, "Channel Estimation for STAR-RIS-aided Wireless Communication", IEEE Commun. Lett., vol. 26, no. 3, pp. 652-656, Mar. 2022. (ESI Highly Cited Paper)</li>
           <li>C. Wu, C. You*, Y. Liu, S. Shi, and M. Di Renzo, "Two-Timescale Design for STAR-RIS Aided NOMA Systems", IEEE Trans. Commun., vol. 72, no. 1, pp. 585-600, 2024.</li>
           <li>Z. Li, W. Yuan, B. Li, J. Wu, C. You, and F. Meng, "Reconfigurable Intelligent Surface Aided OTFS: Transmission Scheme and Channel Estimation", IEEE Internet Things J., vol. 10, no. 22, pp. 19518-19532, Nov. 2023.</li>
           <li>Y. Zhu, Y. Liu, Q. Wu, C. You, and Q. Shi, "Channel Estimation By Transmitting Pilots From Reconfigurable Intelligent Surface", IEEE Trans. Wireless Commun., vol. 23, no. 4, pp. 3328-3343, 2024.</li>
@@ -319,10 +319,10 @@ author_profile: true
         </div>
         <p class="topic-summary">IRS deployment, double-IRS systems, cooperative passive beamforming, and multiuser communication.</p>
         <ol class="publication-list">
-          <li>C. You, B. Zheng, and R. Zhang, "Wireless Communication via Double IRS: Channel Estimation and Passive Beamforming Designs", IEEE Wireless Commun. Lett., vol. 10, no. 2, pp. 431-435, Feb. 2021. (Available: ArXiv)</li>
-          <li>Z. Kang, C. You*, and R. Zhang, "IRS-Aided Wireless Relaying: Optimal Deployment and Capacity Scaling", IEEE Wireless Commun. Lett., vol. 11, no. 2, pp. 215-219, Feb. 2022. (Available: ArXiv)</li>
-          <li>B. Zheng, C. You*, and R. Zhang, "Double-IRS Assisted Multi-User MIMO: Cooperative Passive Beamforming Design", IEEE Trans. Wireless Commun., vol. 20, no. 7, pp. 4513-4526, July 2021. (Available: ArXiv, ESI Highly Cited Paper)</li>
-          <li>B. Zheng, C. You*, and R. Zhang, "Efficient Channel Estimation for Double-IRS Aided Multi-User MIMO System", IEEE Trans. Commun., vol. 69, no. 6, pp. 3818-3832, 2021. (Available: ArXiv)</li>
+          <li>C. You, B. Zheng, and R. Zhang, "Wireless Communication via Double IRS: Channel Estimation and Passive Beamforming Designs", IEEE Wireless Commun. Lett., vol. 10, no. 2, pp. 431-435, Feb. 2021.</li>
+          <li>Z. Kang, C. You*, and R. Zhang, "IRS-Aided Wireless Relaying: Optimal Deployment and Capacity Scaling", IEEE Wireless Commun. Lett., vol. 11, no. 2, pp. 215-219, Feb. 2022. </li>
+          <li>B. Zheng, C. You*, and R. Zhang, "Double-IRS Assisted Multi-User MIMO: Cooperative Passive Beamforming Design", IEEE Trans. Wireless Commun., vol. 20, no. 7, pp. 4513-4526, July 2021. (ESI Highly Cited Paper)</li>
+          <li>B. Zheng, C. You*, and R. Zhang, "Efficient Channel Estimation for Double-IRS Aided Multi-User MIMO System", IEEE Trans. Commun., vol. 69, no. 6, pp. 3818-3832, 2021.</li>
           <li>J. Feng, B. Zheng, C. You, F. Chen, W. Che, and Q. Xue, "Joint Passive Beamforming and Deployment Design for Dual Distributed-IRS Aided Communication", IEEE Trans. Veh. Technol., vol. 72, no. 10, pp. 13758-13763, 2023.</li>
           <li>B. Zheng, T. Ma, J. Tang, C. You, S. Lin, and K. K. Wong, "Reconfigurable Intelligent Surface-Aided Multiuser Communication: Co-design of Transmit Diversity and Active/Passive Precoding", IEEE Trans. Wireless Commun., vol. 23, no. 10, pp. 13394-13407, Oct. 2024.</li>
         </ol>
@@ -361,15 +361,15 @@ author_profile: true
         </div>
         <p class="topic-summary">Mobile edge computing, cooperative edge AI, semantic communications, federated learning, and wireless coded computation.</p>
         <ol class="publication-list">
-          <li>Y. Mao, C. You*, J. Zhang, K. Huang, and K. B. Letaief, "A Survey on Mobile Edge Computing: The Communication Perspective", IEEE Commun. Surveys Tuts., vol. 19, issue 4, pp. 2322-2358, 2017. (Available: ArXiv, ESI Highly Cited Paper)</li>
-          <li>C. You, K. Huang, H. Chae and B. Kim, "Energy-Efficient Resource Allocation for Mobile-Edge Computation Offloading", IEEE Trans. Wireless Commun., vol. 16, no. 3, pp. 1397-1411, Mar. 2017. (Available: ArXiv, ESI Highly Cited Paper, ESI Hot Paper, IEEE ComSoc Asia-Pacific Outstanding Paper Award 2019)</li>
-          <li>C. You, K. Huang and H. Chae, "Energy Efficient Mobile Cloud Computing Powered by Wireless Energy Transfer", IEEE J. Sel. Area Commun., vol. 34, no. 5, pp. 1757-1771, May 2016. (Available: ArXiv, ESI Highly Cited Paper)</li>
-          <li>C. You and K. Huang, "Exploiting Non-Causal CPU-State Information for Energy-Efficient Mobile Cooperative Computing", IEEE Trans. Wireless Commun., vol. 17, no. 6, pp. 4104-4117, June 2018. (Available: ArXiv)</li>
-          <li>C. You, Y. Zeng, R. Zhang, K. Huang, "Asynchronous Mobile-Edge Computation Offloading: Energy-Efficient Resource Management", IEEE Trans. Wireless Commun., vol. 17, no. 11, pp. 7590-7605, Sep. 2018. (Available: ArXiv)</li>
+          <li>Y. Mao, C. You*, J. Zhang, K. Huang, and K. B. Letaief, "A Survey on Mobile Edge Computing: The Communication Perspective", IEEE Commun. Surveys Tuts., vol. 19, issue 4, pp. 2322-2358, 2017. (ESI Highly Cited Paper)</li>
+          <li>C. You, K. Huang, H. Chae and B. Kim, "Energy-Efficient Resource Allocation for Mobile-Edge Computation Offloading", IEEE Trans. Wireless Commun., vol. 16, no. 3, pp. 1397-1411, Mar. 2017. (ESI Highly Cited Paper, ESI Hot Paper, IEEE ComSoc Asia-Pacific Outstanding Paper Award 2019)</li>
+          <li>C. You, K. Huang and H. Chae, "Energy Efficient Mobile Cloud Computing Powered by Wireless Energy Transfer", IEEE J. Sel. Area Commun., vol. 34, no. 5, pp. 1757-1771, May 2016. (ESI Highly Cited Paper)</li>
+          <li>C. You and K. Huang, "Exploiting Non-Causal CPU-State Information for Energy-Efficient Mobile Cooperative Computing", IEEE Trans. Wireless Commun., vol. 17, no. 6, pp. 4104-4117, June 2018.</li>
+          <li>C. You, Y. Zeng, R. Zhang, K. Huang, "Asynchronous Mobile-Edge Computation Offloading: Energy-Efficient Resource Management", IEEE Trans. Wireless Commun., vol. 17, no. 11, pp. 7590-7605, Sep. 2018.</li>
           <li>C. You, "Resource Management in Mobile Edge Computing", ZTE Communications / ZTE Technology Journal, 2020. (Invited paper)</li>
-          <li>G. Zhu, D. Liu, Y. Du, C. You, J. Zhang, and K. Huang, "Towards an Intelligent Edge: Wireless Communication Meets Machine Learning", IEEE Commun. Mag., vol. 58, no. 1, pp. 19-25, Jan. 2020. (Available: ArXiv, ESI Highly Cited Paper, ESI Hot Paper, Best reading in Machine Learning in Communications of IEEE ComSoc research library)</li>
-          <li>Y. Tao, C. You, P. Zhang, K. Huang, "Stochastic Control of Computation Offloading to a Helper with a Dynamically Loaded CPU", IEEE Trans. Wireless Commun., vol. 18, no. 2, pp. 1247-1262, Feb. 2019. (Available: ArXiv)</li>
-          <li>X. Li, C. You, S. Andreev, Y. Gong, and K. Huang, "Wirelessly Powered Crowd Sensing: Joint Power Transfer, Sensing, Compression, and Transmission", IEEE J. Sel. Area Commun., vol. 37, no. 2, pp. 391-406, Feb. 2019. (Available: ArXiv)</li>
+          <li>G. Zhu, D. Liu, Y. Du, C. You, J. Zhang, and K. Huang, "Towards an Intelligent Edge: Wireless Communication Meets Machine Learning", IEEE Commun. Mag., vol. 58, no. 1, pp. 19-25, Jan. 2020. (ESI Highly Cited Paper, ESI Hot Paper, Best reading in Machine Learning in Communications of IEEE ComSoc research library)</li>
+          <li>Y. Tao, C. You, P. Zhang, K. Huang, "Stochastic Control of Computation Offloading to a Helper with a Dynamically Loaded CPU", IEEE Trans. Wireless Commun., vol. 18, no. 2, pp. 1247-1262, Feb. 2019.</li>
+          <li>X. Li, C. You, S. Andreev, Y. Gong, and K. Huang, "Wirelessly Powered Crowd Sensing: Joint Power Transfer, Sensing, Compression, and Transmission", IEEE J. Sel. Area Commun., vol. 37, no. 2, pp. 391-406, Feb. 2019.</li>
           <li>Z. Zhou, X. Li, C. You, K. Huang, Y. Gong, "Joint Sensing and Communication Rates Control for Energy Efficient Mobile Crowd Sensing", IEEE Trans. Wireless Commun., vol. 22, no. 2, pp. 1314-1327, Feb. 2023.</li>
           <li>L. Zeng, D. Wen, G. Zhu, C. You, Q. Chen, and Y. Shi, "Federated Learning with Energy Harvesting Devices", IEEE Trans. Green Commun. Netw., vol. 8, no. 1, pp. 190-204, Mar. 2024.</li>
           <li>Q. Fan, L. Chen, C. You, Y. Chen, and H. Yin, "Dependency-Aware Service Migration for Backhaul-Free Vehicular Edge Computing Networks", IEEE Trans. Veh. Technol., vol. 73, no. 1, pp. 1337-1352, 2024.</li>
@@ -391,12 +391,12 @@ author_profile: true
         </div>
         <p class="topic-summary">UAV-enabled communication, data harvesting, trajectory design, and ISAC systems with fluid antennas.</p>
         <ol class="publication-list">
-          <li>C. You, R. Zhang, "3D Trajectory Optimization in Rician Fading for UAV-Enabled Data Harvesting", IEEE Trans. Wireless Commun., vol. 18, no. 6, pp. 3192-3207, Jun. 2019. (Available: ArXiv, ESI Highly Cited Paper)</li>
-          <li>C. You, R. Zhang, "Hybrid Offline-Online Design for UAV-Enabled Data Harvesting in Probabilistic LoS Channel", IEEE Trans. Wireless Commun., vol. 19, no. 6, pp. 3753-3768, Mar. 2020. (Available: ArXiv)</li>
-          <li>Z. Kang, C. You*, and R. Zhang, "3D Placement for Multi-UAV Relaying: An Iterative Gibbs-Sampling and Block Coordinate Descent Optimization Approach", IEEE Trans. Commun., vol. 69, no. 3, pp. 2047-2062, 2021. (Available: ArXiv)</li>
-          <li>Y. Guo, C. You*, C. Yin, and R. Zhang, "UAV Trajectory and Communication Co-design: Flexible Path Discretization and Path Compression", IEEE J. Sel. Area Commun., vol. 39, no. 11, pp. 3506-3523, Nov. 2021. (Available: ArXiv)</li>
+          <li>C. You, R. Zhang, "3D Trajectory Optimization in Rician Fading for UAV-Enabled Data Harvesting", IEEE Trans. Wireless Commun., vol. 18, no. 6, pp. 3192-3207, Jun. 2019. (ESI Highly Cited Paper)</li>
+          <li>C. You, R. Zhang, "Hybrid Offline-Online Design for UAV-Enabled Data Harvesting in Probabilistic LoS Channel", IEEE Trans. Wireless Commun., vol. 19, no. 6, pp. 3753-3768, Mar. 2020.</li>
+          <li>Z. Kang, C. You*, and R. Zhang, "3D Placement for Multi-UAV Relaying: An Iterative Gibbs-Sampling and Block Coordinate Descent Optimization Approach", IEEE Trans. Commun., vol. 69, no. 3, pp. 2047-2062, 2021.</li>
+          <li>Y. Guo, C. You*, C. Yin, and R. Zhang, "UAV Trajectory and Communication Co-design: Flexible Path Discretization and Path Compression", IEEE J. Sel. Area Commun., vol. 39, no. 11, pp. 3506-3523, Nov. 2021. </li>
           <li>T. Liu, G. Zhang, M. Cui, C. You, Q. Wu, S. Ma, and W. Chen, "Task Completion Time Minimization for UAV-Enabled Data Collection in Rician Fading Channels", IEEE Internet of Things Journal, vol. 10, no. 2, pp. 1134-1148, Jan. 2023.</li>
-          <li>W. Liu, X. Zhang, J. Ren, W. Yuan, C. You, and S. Li, "UAV-Enabled ISAC Systems with Fluid Antennas", submitted to IEEE for possible publication.</li>
+          <li>W. Liu, X. Zhang, J. Ren, W. Yuan, C. You, and S. Li, "UAV-Enabled ISAC Systems with Fluid Antennas", IEEE Trans. Commun., vol. 69, no. 3, pp. 2047-2062, 2021. </li>
         </ol>
       </div>
     </article>
