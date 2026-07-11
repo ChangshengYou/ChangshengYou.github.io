@@ -64,6 +64,7 @@ author_profile: true
           <li>C. Kou, C. You*, M. Wu, D. Wen, Z. Zhang, C. Xing, "BeamVLM for Low-altitude Economy: Generative Beam Prediction via Vision-language Models", submitted to IEEE for possible publication.</li>
           <li>L. Yao, C. You*, C. Zhou, J. Xu, Y. Gong, and C. Xing, "Deep Learning-based Generative CSI Feedback: Predict, Encode, and Feedback", submitted to IEEE for possible publication.</li>
           <li>S. Xie, D. Wen, C. You, Q. Chen, M. Bennis, K. Huang, "FedLoDrop: Federated LoRA with Dropout for Generalized LLM Fine-tuning", IEEE J. Sel. Areas Commun., vol. 44, pp. 3541-3556, 2026.</li>
+           <li>S. Xie, D. Wen, X. Liu, C. You, T. Ratnarajah, K. Huang, "Federated Dropout: Convergence Analysis and Resource Allocation", IEEE Trans. Wireless Commun., vol. 25, pp. 18669-18684, 2026.</li>
         </ol>
       </div>
     </article>
@@ -371,7 +372,6 @@ author_profile: true
           <li>X. Li, C. You, S. Andreev, Y. Gong, and K. Huang, "Wirelessly Powered Crowd Sensing: Joint Power Transfer, Sensing, Compression, and Transmission", IEEE J. Sel. Area Commun., vol. 37, no. 2, pp. 391-406, Feb. 2019. (Available: ArXiv)</li>
           <li>Z. Zhou, X. Li, C. You, K. Huang, Y. Gong, "Joint Sensing and Communication Rates Control for Energy Efficient Mobile Crowd Sensing", IEEE Trans. Wireless Commun., vol. 22, no. 2, pp. 1314-1327, Feb. 2023.</li>
           <li>L. Zeng, D. Wen, G. Zhu, C. You, Q. Chen, and Y. Shi, "Federated Learning with Energy Harvesting Devices", IEEE Trans. Green Commun. Netw., vol. 8, no. 1, pp. 190-204, Mar. 2024.</li>
-          <li>S. Xie, D. Wen, X. Liu, C. You, T. Ratnarajah, K. Huang, "Federated Dropout: Convergence Analysis and Resource Allocation", submitted to IEEE for possible publication.</li>
           <li>Q. Fan, L. Chen, C. You, Y. Chen, and H. Yin, "Dependency-Aware Service Migration for Backhaul-Free Vehicular Edge Computing Networks", IEEE Trans. Veh. Technol., vol. 73, no. 1, pp. 1337-1352, 2024.</li>
           <li>B. Fang, L. Chen, Y. Chen, C. You, X. Chen, and W. Wang, "Wireless Coded Computation with Error Detection", IEEE Trans. Commun., vol. 72, no. 3, pp. 1273-1289, 2024.</li>
           <li>Z. Hu, C. You*, T. Liu, D. Wen, Y. Hu, Y. Cui, Y. Gong, and K. Huang, "Semantic Communication Meets Edge Intelligence: Semantic-Relay-Aided Text Transmissions", IEEE Internet of Things J., vol. 11, no. 24, pp. 39409-39423, Dec. 2024.</li>
