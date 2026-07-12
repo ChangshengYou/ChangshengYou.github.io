@@ -402,4 +402,3 @@ author_profile: true
         </ol>
       </div>
     </article>
-  </section>
