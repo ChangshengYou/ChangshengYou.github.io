@@ -95,9 +95,7 @@ author_profile: true
     </article>
 
     <article class="publication-topic-card" id="topic-near-field-communications-beam-training-and-channel-estimation">
-      <div class="topic-visual topic-image-slot" data-topic="near-field-communications-beam-training-and-channel-estimation" data-image="">
-      <div class="topic-visual-placeholder">BTC</div>
-      </div>
+      
       <div class="topic-content">
         <div class="topic-heading-row">
           <h3>Beam Training and Channel Estimation</h3>
@@ -119,9 +117,7 @@ author_profile: true
     </article>
 
     <article class="publication-topic-card" id="topic-near-field-communications-mixed-near-and-far-field-communication-and-sensing">
-      <div class="topic-visual topic-image-slot" data-topic="near-field-communications-mixed-near-and-far-field-communication-and-sensing" data-image="">
-        <div class="topic-visual-placeholder">MFS</div>
-      </div>
+      
       <div class="topic-content">
         <div class="topic-heading-row">
           <h3>Mixed Near- and Far-field Communication and Sensing</h3>
@@ -142,9 +138,7 @@ author_profile: true
     </article>
 
     <article class="publication-topic-card" id="topic-near-field-communications-sparse-arrays-for-near-field-communications">
-      <div class="topic-visual topic-image-slot" data-topic="near-field-communications-sparse-arrays-for-near-field-communications" data-image="">
-        <div class="topic-visual-placeholder">SA</div>
-      </div>
+      
       <div class="topic-content">
         <div class="topic-heading-row">
           <h3>Sparse Arrays</h3>
@@ -161,9 +155,7 @@ author_profile: true
     </article>
 
     <article class="publication-topic-card" id="topic-near-field-communications-beamforming-design-and-performance-analysis">
-      <div class="topic-visual topic-image-slot" data-topic="near-field-communications-beamforming-design-and-performance-analysis" data-image="">
-        <div class="topic-visual-placeholder">BDP</div>
-      </div>
+      
       <div class="topic-content">
         <div class="topic-heading-row">
           <h3>Beamforming Design and Performance Analysis</h3>
@@ -183,9 +175,7 @@ author_profile: true
     </article>
 
     <article class="publication-topic-card" id="topic-near-field-communications-localization-and-sensing">
-      <div class="topic-visual topic-image-slot" data-topic="near-field-communications-localization-and-sensing" data-image="">
-        <div class="topic-visual-placeholder">LS</div>
-      </div>
+      
       <div class="topic-content">
         <div class="topic-heading-row">
           <h3>Localization and Sensing</h3>
@@ -237,9 +227,7 @@ author_profile: true
       </div>
 
     <article class="publication-topic-card" id="topic-intelligent-reflecting-surface-survey-tutorial">
-      <div class="topic-visual topic-image-slot" data-topic="intelligent-reflecting-surface-survey-tutorial" data-image="">
-        <div class="topic-visual-placeholder">IRS</div>
-      </div>
+      
       <div class="topic-content">
         <div class="topic-heading-row">
           <h3>Survey &amp; Tutorial</h3>
@@ -260,9 +248,7 @@ author_profile: true
     </article>
 
     <article class="publication-topic-card" id="topic-intelligent-reflecting-surface-active-irs">
-      <div class="topic-visual topic-image-slot" data-topic="intelligent-reflecting-surface-active-irs" data-image="">
-        <div class="topic-visual-placeholder">AIR</div>
-      </div>
+     
       <div class="topic-content">
         <div class="topic-heading-row">
           <h3>Active IRS</h3>
@@ -284,9 +270,7 @@ author_profile: true
     </article>
 
     <article class="publication-topic-card" id="topic-intelligent-reflecting-surface-passive-irs-channel-estimation">
-      <div class="topic-visual topic-image-slot" data-topic="intelligent-reflecting-surface-passive-irs-channel-estimation" data-image="">
-        <div class="topic-visual-placeholder">PIC</div>
-      </div>
+     
       <div class="topic-content">
         <div class="topic-heading-row">
           <h3>Passive IRS, Channel Estimation</h3>
@@ -308,9 +292,7 @@ author_profile: true
     </article>
 
     <article class="publication-topic-card" id="topic-intelligent-reflecting-surface-passive-irs-deployment-and-multi-irs">
-      <div class="topic-visual topic-image-slot" data-topic="intelligent-reflecting-surface-passive-irs-deployment-and-multi-irs" data-image="">
-        <div class="topic-visual-placeholder">PID</div>
-      </div>
+      
       <div class="topic-content">
         <div class="topic-heading-row">
           <h3>Passive IRS, Deployment and Multi-IRS</h3>
@@ -329,9 +311,7 @@ author_profile: true
     </article>
 
     <article class="publication-topic-card" id="topic-intelligent-reflecting-surface-communication-computing-and-sensing">
-      <div class="topic-visual topic-image-slot" data-topic="intelligent-reflecting-surface-communication-computing-and-sensing" data-image="">
-        <div class="topic-visual-placeholder">CS</div>
-      </div>
+     
       <div class="topic-content">
         <div class="topic-heading-row">
           <h3>Communication, Computing and Sensing</h3>
@@ -350,9 +330,7 @@ author_profile: true
     </div>
 
     <article class="publication-topic-card" id="topic-edge-computing-edge-learning-and-semantic-communications">
-      <div class="topic-visual topic-image-slot" data-topic="edge-computing-edge-learning-and-semantic-communications" data-image="">
-        <div class="topic-visual-placeholder">ECE</div>
-      </div>
+     
       <div class="topic-content">
         <div class="topic-heading-row">
           <h3>Edge Computing, Edge Learning and Semantic Communications</h3>
