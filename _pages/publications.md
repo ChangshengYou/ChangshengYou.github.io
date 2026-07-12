@@ -13,7 +13,7 @@ author_profile: true
   <section class="publications-hero">
     <p class="pub-kicker">Research Portfolio</p>
     <h1>Publications</h1>
-    <p class="pub-lede">A curated record of research on AI for wireless communications, near-field communications, flexible antenna systems, intelligent reflecting surfaces, edge intelligence, UAV communications, and low-altitude economy.</p>
+    <p class="pub-lede">A curated record of research on MIMO communications and AI for wireless communications.</p>
     <p class="pub-note"><strong>*</strong> indicates corresponding author.</p>
   </section>
 
