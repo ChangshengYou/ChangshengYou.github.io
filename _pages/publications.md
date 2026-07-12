@@ -206,7 +206,7 @@ author_profile: true
         <p class="topic-summary">Movable, rotatable, frequency-switching, and six-dimensional antenna systems for future wireless networks.</p>
         <ol class="publication-list">
           <li>C. Zhou, C. You*, C. Zhou, L. Yao, W. Yuan, B. Zheng, and N. Wu, "Rotatable IRS-Assisted 6DMA Communications: A Two-timescale Design", submitted to IEEE for possible publication.</li>
-          <li>X. Shao, W. Mei, C. You, "A Tutorial on Six-Dimensional Movable Antenna for 6G Networks: Synergizing Positionable and Rotatable Antennas", IEEE Commun. Surveys Tuts., vol. 28, pp. 3666-3709, 2026. (ESI Highly Cited Paper, ESI Hot Paper)</li>
+          <li>X. Shao, W. Mei, C. You, et al. "A Tutorial on Six-Dimensional Movable Antenna for 6G Networks: Synergizing Positionable and Rotatable Antennas", IEEE Commun. Surveys Tuts., vol. 28, pp. 3666-3709, 2026. (ESI Highly Cited Paper, ESI Hot Paper)</li>
           <li>B. Zheng, T. Ma, C. You, J. Tang, R. Schober, and R. Zhang, "Rotatable antenna enabled wireless communication and sensing: Opportunities and challenges", IEEE Wireless Commun., pp. 1-8, 2025. (ESI Highly Cited Paper, ESI Hot Paper)</li>
           <li>Y. Zhang, C. You*, and H. C. So, "Movable-Antenna Position Optimization: A New Evolutionary Framework", IEEE Trans. Wireless Commun., vol. 25, pp. 5216-5231, 2026.</li>
           <li>C. Zhou, C. You*, B. Zheng, X. Shao, R. Zhang, "Rotatable antennas for integrated sensing and communications", IEEE Wireless Commun. Lett., vol. 14, no. 9, pp. 2838-2842, Sep. 2025.</li>
