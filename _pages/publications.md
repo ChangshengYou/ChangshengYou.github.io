@@ -76,9 +76,7 @@ author_profile: true
       </div>
 
     <article class="publication-topic-card" id="topic-near-field-communications-survey-tutorial">
-      <div class="topic-visual topic-image-slot" data-topic="near-field-communications-survey-tutorial" data-image="">
-        <div class="topic-visual-placeholder">NF</div>
-      </div>
+
       <div class="topic-content">
         <div class="topic-heading-row">
           <h3>Survey &amp; Tutorial</h3>
