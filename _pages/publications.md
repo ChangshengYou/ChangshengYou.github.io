@@ -27,7 +27,7 @@ author_profile: true
       <a href="#topic-near-field-communications">Near-field Communications</a>
       <a href="#topic-flexible-antenna-systems">Flexible Antenna Systems</a>
       <a href="#topic-intelligent-reflecting-surface">Intelligent Reflecting Surface</a>
-      <a href="#topic-edge-computing-edge-learning-and-semantic-communications">Edge Computing, Edge Learning and Semantic Communications</a>
+      <a href="#topic-edge-computing-edge-learning-and-semantic-communications">Edge Computing and Learning</a>
       <a href="#topic-uav-communications-and-low-altitude-economy">UAV Communications and Low-altitude Economy</a>
       <a href="#topic-others">Others</a>
     </div>
@@ -178,6 +178,7 @@ author_profile: true
           <li>Y. Zhang, Y. Fang, C. You*, Y. A. Zhang, and H. C. So, "Performance Analysis and Low-Complexity Beamforming Design for Near-Field Physical Layer Security", IEEE Trans. Commun., vol. 74, pp. 781-796, 2026.</li>
           <li>C. Zhou, C. You*, C. Zhou, C. Xing, and J. Zhang, "Near-field Physical Layer Security: Robust Beamforming under Location Uncertainty", IEEE Trans. Wireless Commun., vol. 25, pp. 17384-17398, 2026.</li>
           <li>M. Wu, C. You*, and X. Lei, "Beam-focusing Analysis for Modular XL-arrays: Effect of Time Synchronization Errors", IEEE Wireless Commun. Lett., vol. 15, pp. 3571-3575, 2026.</li>
+          <li>J. Li, L. Yang, C. You, I. Ahmad, PS. Bithas, M. Di. Renzo, and D. Niyato, "Absorptive RIS-Assisted Near-Field Covert Communication With Fluid Antenna Systems", IEEE J. Sel. Areas Commun., vol. 44, pp. 2052-2070, 2026. (ESI Highly Cited Paper)
           <li>B. Qin, F. Zhou, W. Zhang, C. You, and B. Zheng, "Fast Distance Sampling for Uniform Circular Array in Near-Field 3D Beam-Focusing", IEEE Signal Proc. Lett., vol. 31, pp. 2210-2214, Aug. 2025.</li>
         </ol>
       </div>
