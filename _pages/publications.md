@@ -403,15 +403,3 @@ author_profile: true
       </div>
     </article>
   </section>
-
-  <section class="publication-section publication-section--compact">
-    <div class="publication-section-heading">
-      <span class="publication-section-label">Intellectual Property</span>
-      <h2>Patents</h2>
-    </div>
-    <ol class="publication-list publication-list--featured">
-      <li>H. Chae, K. Huang, and C. You, "Method and apparatus for an input data processing via a local computing or offloading based on power harvesting in a wireless communication system", US patent 10111024.</li>
-      <li>H. Chae, B. Kim, K. Huang, and C. You, "Method and apparatus for indicating an offloading data size and time duration in a wireless communication system", US patent 10568000.</li>
-    </ol>
-  </section>
-</div>
