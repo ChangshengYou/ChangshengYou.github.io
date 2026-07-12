@@ -98,7 +98,6 @@ author_profile: true
 
     <article class="publication-topic-card" id="topic-near-field-communications-beam-training-and-channel-estimation">
       <div class="topic-visual topic-image-slot" data-topic="near-field-communications-beam-training-and-channel-estimation" data-image="">
-        <div class="topic-visual-placeholder">BTC</div>
       </div>
       <div class="topic-content">
         <div class="topic-heading-row">
