@@ -131,7 +131,7 @@ author_profile: true
           <li>T. Liu, C. You*, C. Zhou, Y. Zhang, S. Gong, H. Liu, and G. Zhang, "Physical-Layer Security in Mixed Near-Field and Far-Field Communication Systems", IEEE Trans. Cog. Commun. Netw., vol. 12, pp. 4045-4059, 2026.</li>
           <li>C. Zhou, C. You*, C. Zhou, H. Lin, and Y. Gong, "MA-enhanced Mixed Near-field and Far-field Covert Communications", IEEE Trans. Wireless Commun., vol. 25, pp. 14037-14052, 2026.</li>
           <li>Y. Zhang, C. You*, R. Zhang, B. Zheng, H. C. So, D. Niyato, T. Q. S. Quek, "Rotatable Antenna Enabled Multi-Cell Mixed Near-Field and Far-Field Communications", IEEE Trans. Wireless Commun., vol. 25, pp. 16120-16135, 2026.</li>
-          <li>T. Liu, C. You*, C. Zhou, M. Wu, M. M. Zhao, Z. Wang, "Mitigating Mixed-field Interference in Near-field and Far-field Communications: An Antenna Selection Approach", submitted to IEEE for possible publication.</li>
+          <li>T. Liu, C. You*, C. Zhou, M. Wu, M. M. Zhao, Z. Wang, "Mitigating Mixed-field Interference in Near-field and Far-field Communications: An Antenna Selection Approach", IEEE Trans. Wireless Commun., vol. 25,pp. 20086-20101, 2026.</li>
           <li>Y. Yi, G. Zhang, M. Cui, C. You, and Q. Wu, "AN-Aided Secure Beamforming for ELAA-SWIPT in Mixed Near-and Far-Field", accepted to IEEE Wireless Commun. Lett., vol. 14, no. 11, pp. 3789-3793, Nov. 2025.</li>
         </ol>
       </div>
