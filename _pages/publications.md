@@ -13,7 +13,6 @@ author_profile: true
   <section class="publications-hero">
     <p class="pub-kicker">Research Portfolio</p>
     <h1>Publications</h1>
-    <p class="pub-lede">A curated record of research on MIMO communications and AI for wireless communications.</p>
     <p class="pub-note"><strong>*</strong> indicates corresponding author.</p>
   </section>
 
