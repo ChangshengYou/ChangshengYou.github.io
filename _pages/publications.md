@@ -62,7 +62,7 @@ author_profile: true
         <ol class="publication-list">
           <li>J. Li, C. You*, G. Cheng, H. Sun, C. Zhou, L. Dai, "Near-field Beam Training under Multi-path Channels: A Hybrid Learning-and-Optimization Approach", submitted to IEEE for possible publication.</li>
           <li>C. Kou, C. You*, M. Wu, D. Wen, Z. Zhang, C. Xing, "BeamVLM for Low-altitude Economy: Generative Beam Prediction via Vision-language Models", submitted to IEEE for possible publication.</li>
-          <li>L. Yao, C. You*, C. Zhou, J. Xu, Y. Gong, and C. Xing, "Deep Learning-based Generative CSI Feedback: Predict, Encode, and Feedback", submitted to IEEE for possible publication.</li>
+          <li>L. Yao, C. You*, C. Zhou, Y. Gong, and C. Xing, "Deep Learning-based Generative CSI Feedback: Predict, Encode, and Feedback", submitted to IEEE for possible publication.</li>
           <li>S. Xie, D. Wen, C. You, Q. Chen, M. Bennis, K. Huang, "FedLoDrop: Federated LoRA with Dropout for Generalized LLM Fine-tuning", IEEE J. Sel. Areas Commun., vol. 44, pp. 3541-3556, 2026.</li>
            <li>S. Xie, D. Wen, X. Liu, C. You, T. Ratnarajah, K. Huang, "Federated Dropout: Convergence Analysis and Resource Allocation", IEEE Trans. Wireless Commun., vol. 25, pp. 18669-18684, 2026.</li>
         </ol>
