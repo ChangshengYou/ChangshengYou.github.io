@@ -87,7 +87,7 @@ author_profile: true
           <li>C. You, Y. Cai*, Y. Liu, M. D. Renzo, T. M. Duman, A. Yener, A. L. Swindlehurst, "Next Generation Advanced Transceiver Technologies for 6G and beyond", IEEE J. Sel. Areas Commun., vol. 43, no. 3, pp. 582-627, Mar. 2025. (ESI Highly Cited Paper, ESI Hot Paper)</li>
           <li>C. You*, Y. Zhang, C. Wu, Y. Zeng, B. Zheng, L. Chen, L. Dai, and A. L. Swindlehurst, "Near-Field Beam Management for Extremely Large-Scale Array Communications", submitted to IEEE for possible publication.</li>
           <li>J. Cong, C. You*, J. Li, L. Chen, B. Zheng, Y. Liu, W. Wu, Y. Gong, S. Jin, and R. Zhang, "Near-field Integrated Sensing and Communication: Opportunities and Challenges", IEEE Wireless Commun., vol. 31, no. 6, pp. 162-169, Dec. 2024. (Popular article in IEEE WCM)</li>
-          <li>Q. Dai, Y. Zeng, H. Wang, C. You, et al., "A Tutorial on MIMO-OFDM ISAC: From Far-Field to Near-Field", IEEE Communications Surveys and Tutorials, vol. 28, pp. 4319-4358, 2026.</li>
+          <li>Q. Dai, Y. Zeng, H. Wang, C. You, et al., "A Tutorial on MIMO-OFDM ISAC: From Far-Field to Near-Field", IEEE Communications Surveys and Tutorials, vol. 28, pp. 4319-4358, 2026. (ESI Highly Cited Paper)</li>
           <li>Z. Ding, J. Zhang, C. You, P. Tang, H. Xing, Z. Yuan, J. Meng, and G. Liu, "Far-Field vs. Near-Field Propagation Channels: Key Differences and Impact on 6G XL-MIMO Performance Evaluation", China Commun., vol. 22, no. 10, pp. 186-198, Oct. 2025.</li>
         </ol>
       </div>
