@@ -55,7 +55,7 @@ author_profile: true
       <div class="topic-content">
         <div class="topic-heading-row">
           <h3>AI and Wireless Communications</h3>
-          <span class="paper-count">4 papers</span>
+          <span class="paper-count">7 papers</span>
         </div>
         <p class="topic-summary">Learning-enabled wireless communications, generative CSI feedback, and vision-language beam prediction.</p>
         <ol class="publication-list">
@@ -193,6 +193,9 @@ author_profile: true
         </ol>
       </div>
     </article>
+
+
+
 
 
 
@@ -363,6 +366,15 @@ author_profile: true
         </ol>
       </div>
     </article>
+
+
+        <div class="publication-topic-family" id="topic-Low-altitude-wireless-networks">
+      <div class="publication-family-heading">
+        <span class="publication-section-label">Research Theme</span>
+        <h3>Low-altitude wireless networks</h3>
+      </div>
+
+
 
     <article class="publication-topic-card" id="topic-uav-communications-and-low-altitude-economy">
       <div class="topic-visual topic-image-slot" data-topic="uav-communications-and-low-altitude-economy" data-image="">
