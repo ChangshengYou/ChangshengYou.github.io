@@ -65,6 +65,7 @@ author_profile: true
           <li>J. Li, C. You*, and C. Zhou, "Rotatable Antenna Enabled V2I Communications: Exploiting Event-Triggered Spatiotemporal Traffic Prediction",submitted to IEEE for possible publication. </li>
           <li>S. Xie, D. Wen, C. You, Q. Chen, M. Bennis, K. Huang, "FedLoDrop: Federated LoRA with Dropout for Generalized LLM Fine-tuning", IEEE J. Sel. Areas Commun., vol. 44, pp. 3541-3556, 2026.</li>
           <li>S. Xie, D. Wen, X. Liu, C. You, T. Ratnarajah, K. Huang, "Federated Dropout: Convergence Analysis and Resource Allocation", IEEE Trans. Wireless Commun., vol. 25, pp. 18669-18684, 2026.</li>
+          <li>Y. Zhou, C. You, and K. Huang, "Communication Efficient Cooperative Edge AI via Event-Triggered Computation Offloading", IEEE Trans. Commun., vol. 74, pp. 3190-3205, 2026.</li>
         </ol>
       </div>
     </article>
@@ -353,7 +354,6 @@ author_profile: true
           <li>Q. Fan, L. Chen, C. You, Y. Chen, and H. Yin, "Dependency-Aware Service Migration for Backhaul-Free Vehicular Edge Computing Networks", IEEE Trans. Veh. Technol., vol. 73, no. 1, pp. 1337-1352, 2024.</li>
           <li>B. Fang, L. Chen, Y. Chen, C. You, X. Chen, and W. Wang, "Wireless Coded Computation with Error Detection", IEEE Trans. Commun., vol. 72, no. 3, pp. 1273-1289, 2024.</li>
           <li>Z. Hu, C. You*, T. Liu, D. Wen, Y. Hu, Y. Cui, Y. Gong, and K. Huang, "Semantic Communication Meets Edge Intelligence: Semantic-Relay-Aided Text Transmissions", IEEE Internet of Things J., vol. 11, no. 24, pp. 39409-39423, Dec. 2024.</li>
-          <li>Y. Zhou, C. You, and K. Huang, "Communication Efficient Cooperative Edge AI via Event-Triggered Computation Offloading", IEEE Trans. Commun., vol. 74, pp. 3190-3205, 2026.</li>
         </ol>
       </div>
     </article>
