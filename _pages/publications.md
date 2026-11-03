@@ -55,9 +55,8 @@ author_profile: true
       </div>
 
     <article class="publication-topic-card" id="topic-ai-and-wireless-communications">
-      <div class="topic-visual topic-image-slot" data-topic="ai-and-wireless-communications" data-image="">
-        <div class="topic-visual-placeholder">AI</div>
-      </div>
+
+      
       <div class="topic-content">
         <div class="topic-heading-row">
           <h3>AI and Wireless Communications</h3>
