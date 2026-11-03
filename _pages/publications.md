@@ -345,7 +345,7 @@ author_profile: true
       <div class="topic-content">
         <div class="topic-heading-row">
           <h3>Edge Computing, Edge Learning and Semantic Communications</h3>
-          <span class="paper-count">16 papers</span>
+          <span class="paper-count">14 papers</span>
         </div>
         <p class="topic-summary">Mobile edge computing, cooperative edge AI, semantic communications, federated learning, and wireless coded computation.</p>
         <ol class="publication-list">
@@ -383,7 +383,7 @@ author_profile: true
       <div class="topic-content">
         <div class="topic-heading-row">
           <h3>UAV Communications and Low-altitude Economy</h3>
-          <span class="paper-count">6 papers</span>
+          <span class="paper-count">9 papers</span>
         </div>
         <p class="topic-summary">UAV-enabled communication, data harvesting, trajectory design, and ISAC systems with fluid antennas.</p>
         <ol class="publication-list">
