@@ -48,6 +48,12 @@ author_profile: true
       <h2>Journal Articles by Topic</h2>
     </div>
 
+        <div class="publication-topic-family" id="topic-AI-for-wireless-communications">
+      <div class="publication-family-heading">
+        <span class="publication-section-label">Research Theme</span>
+        <h3>AI for wireless communications</h3>
+      </div>
+
     <article class="publication-topic-card" id="topic-ai-and-wireless-communications">
       <div class="topic-visual topic-image-slot" data-topic="ai-and-wireless-communications" data-image="">
         <div class="topic-visual-placeholder">AI</div>
