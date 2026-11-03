@@ -51,7 +51,7 @@ author_profile: true
         <div class="publication-topic-family" id="topic-AI-for-wireless-communications">
       <div class="publication-family-heading">
         <span class="publication-section-label">Research Theme</span>
-        <h3>AI for wireless communications</h3>
+        <h3>AI and wireless communications</h3>
       </div>
 
     <article class="publication-topic-card" id="topic-ai-and-wireless-communications">
