@@ -382,9 +382,8 @@ author_profile: true
 
 
     <article class="publication-topic-card" id="topic-uav-communications-and-low-altitude-economy">
-      <div class="topic-visual topic-image-slot" data-topic="uav-communications-and-low-altitude-economy" data-image="">
-        <div class="topic-visual-placeholder">UAV</div>
-      </div>
+
+      
       <div class="topic-content">
         <div class="topic-heading-row">
           <h3>UAV Communications and Low-altitude Economy</h3>
@@ -406,9 +405,7 @@ author_profile: true
     </article>
 
     <article class="publication-topic-card" id="topic-others">
-      <div class="topic-visual topic-image-slot" data-topic="others" data-image="">
-        <div class="topic-visual-placeholder">O</div>
-      </div>
+
       <div class="topic-content">
         <div class="topic-heading-row">
           <h3>Others</h3>
