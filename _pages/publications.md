@@ -331,6 +331,12 @@ author_profile: true
 
     </div>
 
+    <div class="publication-topic-family" id="topic-edge-computing-and-learning">
+      <div class="publication-family-heading">
+        <span class="publication-section-label">Research Theme</span>
+        <h3>Edge Computing and Learning</h3>
+      </div>
+
     <article class="publication-topic-card" id="topic-edge-computing-edge-learning-and-semantic-communications">
      
       <div class="topic-content">
